@@ -73,15 +73,3 @@ Amity University Rajasthan
 
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashirawalui22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashirawalui22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rashirawalui22&theme=tokyonight&hide_border=true" />
-</p>
