@@ -66,6 +66,22 @@ Amity University Rajasthan
 
 ### 🤝 Let's Connect
 
-- GitHub: [@rashirawalui22](https://github.com/rashirawalui22)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rashi-rawal-398192322/)
+- 💻 [GitHub](https://github.com/rashirawalui22)
 
 *Always learning. Always building. Always improving.*
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashirawalui22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashirawalui22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rashirawalui22&theme=tokyonight&hide_border=true" />
+</p>
